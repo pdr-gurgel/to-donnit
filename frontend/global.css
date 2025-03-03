@@ -43,7 +43,10 @@ body {
     border-radius: 11px;
 }
 
-
+#search-icon {
+    margin-left: 30px;
+    width: 40px;
+}
 
 #task-button {
     margin-left: 50px;
